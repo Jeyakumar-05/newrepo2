@@ -7,4 +7,4 @@ export default defineConfig({
     include: ['@google/generative-ai'],
   },
 })
-//c
+//c/cc/.new
